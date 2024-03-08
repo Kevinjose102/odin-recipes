@@ -1,0 +1,40 @@
+img
+{
+    height: 350px;
+    width: auto;
+}
+body
+{
+    background-color: rgb(237, 203, 162);
+}
+h1
+{   
+    font-weight: bold;
+    color: rgba(74, 48, 7, 0.817);
+    font-size: 55px;
+}
+h2
+{      
+    font-weight: bold;
+    font-size: 39px;
+    color: rgba(60, 38, 4, 0.817);
+}
+
+ul, ol
+{   
+    font-size: 25px;
+    font-weight: bolder;
+    color: rgb(104, 83, 30);
+}
+
+h3, h4
+{   
+    color: rgb(123, 83, 54);
+    font-size: 28px;
+    text-decoration: underline;
+}
+p
+{
+    font-size: 27px;
+    color: black;
+}

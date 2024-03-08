@@ -1,0 +1,38 @@
+body
+{
+    background-color:#5b3f38;
+}
+
+h1
+{   
+    font-size: 55px;
+    color: rgb(214, 189, 189);
+}
+img
+{
+    height: 350px;
+    width: auto;
+}
+h2, h3, h4
+{   
+    text-decoration: underline;
+    font-size: 28px;
+    color: rgb(244, 195, 174);
+}
+h2
+{   
+    text-decoration: none;
+    font-size: 39px;
+}
+
+ol, ul
+{   
+    color: #ec9b69;
+    font-size: 25px;
+    font-weight: bolder;
+}
+p
+{
+    font-size: 28px;
+    color: rgb(225, 161, 134);
+}
