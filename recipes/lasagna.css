@@ -7,10 +7,14 @@ body
 {
     background-color: rgb(237, 203, 162);
 }
+*
+{
+    padding-left: 10px;
+}
 h1
 {   
     font-weight: bold;
-    color: rgba(74, 48, 7, 0.817);
+    color: rgba(40, 26, 3, 0.817);
     font-size: 55px;
 }
 h2
@@ -29,7 +33,7 @@ ul, ol
 
 h3, h4
 {   
-    color: rgb(123, 83, 54);
+    color: rgb(88, 46, 16);
     font-size: 28px;
     text-decoration: underline;
 }
